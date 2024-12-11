@@ -1,0 +1,17 @@
+{
+  "name": "frontendfix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "firebase": "^11.0.2",
+    "http-server": "^14.1.1"
+  }
+}

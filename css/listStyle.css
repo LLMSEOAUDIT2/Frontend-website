@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    margin: 0;
+    background-color: #445379;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+    border: 1px solid #dee2e6;
+    /* Sesuaikan warna border */
+    border-radius: 15px;
+    /* Sesuaikan nilai radius */
+}
+
+.actions .btn-info {
+    background-color: #00bcd4;
+    /* Download */
+    border-color: #00bcd4;
+    color: #fff;
+}
+
+
+h1 {
+    font-weight: 600;
+    color: #ffffff;
+}

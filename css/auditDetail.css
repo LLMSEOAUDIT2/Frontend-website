@@ -1,0 +1,32 @@
+/* Import dari Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Terapkan font ke semua elemen */
+
+body {
+    margin: 0;
+    background-color: #445379;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: #f8f9fa;
+    /* Sesuaikan dengan tema */
+}
+
+pre {
+    font-family: 'Poppins', Arial, sans-serif;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: #f8f9fa;
+    /* Sesuaikan dengan tema */
+}
+
+
+h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
