@@ -124,12 +124,12 @@ document.getElementById('submitButton').addEventListener('click', () => {
 });
 
 //ganti pake api project seo 
-const apiKey = 'AIzaSyDVel6diRLg7b9qbG2wZCyOqyIOMxz9-Sk';
+const apiKey = '';
 
 //fungsi pagespeed otomatis
 function fetchPageSpeedData(url) {
     // URLs untuk desktop
-    const desktopUrl = `https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=${url}&strategy=desktop&category=performance&category=accessibility&category=seo&category=best-practices&key=${apiKey}`;
+    const desktopUrl = ``;
 
     // Fetch Desktop Results
     fetch(desktopUrl)
